@@ -80,7 +80,7 @@ section {
   margin-right: 0.5em;
 }
 
-.hero-img {
+#hero-img {
   width: 70%;
   margin-top: 3em;
 }
@@ -280,7 +280,7 @@ nav li a:hover {
     width: 90%;
   }
 
-  .hero-img {
+  #hero-img {
     width: 30%;
     margin-right: 8em;
   }
@@ -372,3 +372,26 @@ text-decoration-line: none;
 font-size: larger;
 }
 
+#date {
+  width: 30%;
+  margin-right: 8em;
+}
+
+#date {
+width: 70%;
+margin-top: 3em;
+border: 3px;
+color:#006bd6
+}
+
+#mark {
+  width: 30%;
+  margin-right: 8em;
+}
+
+#mark {
+width: 70%;
+margin-top: 3em;
+border: 3px;
+color:#006bd6
+}
